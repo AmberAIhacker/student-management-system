@@ -2,6 +2,12 @@
 
 A responsive student directory for adding, updating, deleting, searching, and filtering student records.
 
+## Live website
+
+https://amberaihacker.github.io/student-management-system/
+
+Every push to `main` deploys the site to GitHub Pages through the workflow in `.github/workflows/pages.yml`.
+
 ## Run locally
 
 Open `index.html` in a modern browser. No build step or package installation is required.
